@@ -2,11 +2,6 @@
 
 dataset Link = https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-Here is a **clean, professional, copy-paste ready README.md** for your **Real-Time Fraud Detection (FinTech)** project.
-This is **resume + recruiter friendly**.
-
----
-
 # 🏦 Real-Time Credit Card Fraud Detection System
 
 ## 📌 Problem Statement
